@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paolo, web developer skilled in basic HTML/CSS/Javascript and currently upskilling in Node.JS 
+I'm Paolo, web developer. 
 
 - 🔭 I’m currently the Head of Strategic Operations at :Different, an Australian tech startup
 - 🌱 I’m currently learning full-stack web development @ University of Sydney
