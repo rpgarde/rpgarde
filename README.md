@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Paolo, web developer. View my portfolio [here](https://rpgarde.github.io/paolo-garde-portfolio/)
+I'm Paolo, web developer. View my portfolio [here](https://rpgarde.github.io/pg-react-portfolio/)
 
 - 🔭 I’m currently the Head of Strategic Operations at :Different, an Australian tech startup
 - 🌱 I’m currently learning full-stack web development @ University of Sydney
