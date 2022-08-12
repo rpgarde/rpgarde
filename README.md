@@ -3,7 +3,7 @@
 I'm Paolo. View my portfolio [here](https://paologarde.com)
 
 - 🔭 Ex-software Engineer at :Different, an Australian tech startup reinventing the world property management
-- 🌱 Just finished a full-stack web development certificate @ University of Sydney
+- 🌱 Full-stack web development certificate @ University of Sydney, A+ grade
 - 💬 Ask me about the fun world of startups, marketplaces, etc
 - ⚡ Fun fact: I have a [YouTube channel](http://www.youtube.com/pgblanks) on the side
 
