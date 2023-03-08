@@ -2,6 +2,7 @@
 
 I'm Paolo. View my portfolio [here](https://paologarde.com)
 
+- Now trying to save the world at [Trace](https://our-trace.com)
 - 🔭 Ex-software Engineer at :Different, an Australian tech startup reinventing the world property management
 - 🌱 Full-stack web development certificate @ University of Sydney, A+ grade
 - 💬 Ask me about the fun world of startups, marketplaces, etc
